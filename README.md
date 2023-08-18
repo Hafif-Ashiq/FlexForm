@@ -19,7 +19,7 @@ This was acheived by building the frontend on top of a template and additional p
 
 Clone the project into your directory by using command 
 ``` bash
-git clone 
+git clone https://github.com/Hafif-Ashiq/FlexForm.git
 cd Frontend
 ```
 
@@ -58,7 +58,7 @@ Other databases can be configured by extra changes to the settings / python code
 
 First clone the project if not done before by using:
 ``` bash
-git clone 
+git clone https://github.com/Hafif-Ashiq/FlexForm.git
 ```
 Then switch to the backend directory using
 ``` bash
